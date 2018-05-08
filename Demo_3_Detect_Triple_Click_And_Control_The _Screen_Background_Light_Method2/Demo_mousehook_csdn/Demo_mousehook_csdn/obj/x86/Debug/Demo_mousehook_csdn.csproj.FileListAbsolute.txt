@@ -1,0 +1,41 @@
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csprojResolveAssemblyReference.cache
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+G:\VS代码测试\006_实时监控鼠标位置和左键点击\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csproj.GenerateResource.Cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csprojResolveAssemblyReference.cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csproj.GenerateResource.Cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csprojResolveAssemblyReference.cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csproj.GenerateResource.Cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csprojResolveAssemblyReference.cache
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+G:\VS代码测试\触摸控制GPIO代码通讯测试功能加强失败板\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csproj.GenerateResource.Cache

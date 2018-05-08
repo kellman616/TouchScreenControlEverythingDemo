@@ -1,0 +1,19 @@
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+d:\mydocuments\visual studio 2010\Projects\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\bin\Debug\Demo_mousehook_csdn.pdb
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csprojResolveAssemblyReference.cache
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Form1.resources
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.Properties.Resources.resources
+G:\VS代码测试\Demo_mousehook_csdn\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.csproj.GenerateResource.Cache
+G:\VS代码测试\鼠标位置检测 DEMO1\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.exe
+G:\VS代码测试\鼠标位置检测 DEMO1\Demo_mousehook_csdn\obj\x86\Debug\Demo_mousehook_csdn.pdb
